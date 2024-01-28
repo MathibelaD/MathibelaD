@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ms Mathibela</h1>
+<h3 align="center">A passionate web developer from South Africa</h3>
 
-<!--
-**MathibelaD/MathibelaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ⚡ **For it is with your heart that you believe and are justified and it is with your mouth that you profess your faith and are saved**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathibelad&label=Profile%20views&color=0e75b6&style=flat" alt="mathibelad" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathibelad&show_icons=true&locale=en" alt="mathibelad" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathibelad&show_icons=true&locale=en&layout=compact" alt="mathibelad" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dineo mathibela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineo mathibela" height="20" width="30" /></a>
+</p>
+
+
